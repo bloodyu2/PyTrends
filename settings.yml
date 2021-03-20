@@ -1,3 +1,5 @@
+#This file will store the info of your API, but you will still need to authorize the modification every time
+
 client_config_backend: settings
 client_config:
 client_id: 1011978454582-4k9ksc4rts2v1f14eoo86287cfo92j6e.apps.googleusercontent.com
